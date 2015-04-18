@@ -9,5 +9,5 @@ The more you restore the Fourier component, the more restored image gets clear.
 Note that the main components of the image are concentrated on the center; there are low frequencies of the Fourier domain.  
 In case of heavy response or changing resolution, change the image size by the upper SIZE button  
 
-You can use another image by selecting an image from Flickr(JPG only), copy the URL of the image and paste its string on the text field,  
+You can use another image by selecting an image from [Flickr](https://www.flickr.com)(JPG only), copy the URL of the image and paste its string on the text field,  
 then press the LOAD button. (Any image except Flickr cannot be loaded because of some technical reasons).
