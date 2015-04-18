@@ -1,7 +1,7 @@
-# fourier-image-reconstruction
 This Flash application generates amplitude spectrum of JPG image, then you can partially reconstruct the original image by picking up frequency elements.
 
-![Alt text](sample.jpg)
+![Alt text](sample.jpg)  
+[Visit here to try this it out](http://objective.oteage.net/FlashPhysics/FourierAnalysis.html)
 
 On the upper left is the original image(Lenna). The right image is the amplitude spectrum of the original image.  
 When you click or drag on the lower right image, the only component which the cursor points on Fourier(frequency) domain will be picked up and put back into original domain, which is located on the left bottom.  
